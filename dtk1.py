@@ -1,4 +1,4 @@
-
+print ('hello world')
 #cadastro dos projetos
 dic = {}
 qntd = int(input("Insira a qunatidade de projetos que serão adicionados: "))
